@@ -4,21 +4,24 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 280px;">
-    <h3>🧐 Research Interests</h3>
-    <ul>
-      <li>🧠 <strong>Self-adaptive Systems</strong></li>
-      <li>🔁 <strong>Multi-fidelity Configuration Tuning</strong></li>
-      <li>🏔️ <strong>Fitness Landscape Analysis</strong></li>
-      <li>🧬 <strong>Evolutionary Computation</strong></li>
-      <li>🤖 <strong>Automated Machine Learning (AutoML)</strong></li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;" />
-  </div>
-</div>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <h3>🧐 Research Interests</h3>
+      <ul>
+        <li>🧠 <strong>Self-adaptive Systems</strong></li>
+        <li>🔁 <strong>Multi-fidelity Configuration Tuning</strong></li>
+        <li>🏔️ <strong>Fitness Landscape Analysis</strong></li>
+        <li>🧬 <strong>Evolutionary Computation</strong></li>
+        <li>🤖 <strong>Automated Machine Learning (AutoML)</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yulong-Ye&theme=github_dark" alt="GitHub Stats" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
