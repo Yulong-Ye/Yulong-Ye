@@ -5,9 +5,9 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
 ## 🧐 Research Interests
 - 🧠 **Self-adaptive Systems**
 - 🔁 **Multi-fidelity Configuration Tuning**
-- 🤖 **Automated Machine Learning (AutoML)**
 - 🏔️ **Fitness Landscape Analysis**
 - 🧬 **Evolutionary Computation**
+- 🤖 **Automated Machine Learning (AutoML)**
 
 ## 🚀 Current Work
 I’m exploring how intelligent algorithms can efficiently tune complex systems like databases, compilers, and servers using limited computational budgets — powered by **multi-fidelity search**, **evolutionary algorithms**, and **landscape insights**.
