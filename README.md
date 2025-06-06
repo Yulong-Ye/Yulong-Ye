@@ -2,7 +2,7 @@
 
 I'm a PhD student at the **University of Birmingham**, working at the intersection of **AI for Software Engineering (AI4SE)** and **Software Engineering for AI (SE4AI)**.
 
-## 🔬 Research Interests
+## 🧐 Research Interests
 - 🧠 **Self-adaptive Systems**
 - 🔁 **Multi-fidelity Configuration Tuning**
 - 🤖 **Automated Machine Learning (AutoML)**
@@ -18,7 +18,7 @@ I’m exploring how intelligent algorithms can efficiently tune complex systems 
 - Dynamic optimization under workload drift
 
 ## 📫 Let’s Connect
-- 🌐 Research Homepate: https://yulong-ye.github.io/
+- 📖 Academic Homepage: https://yulong-ye.github.io/
 - ✉️ Email: yeyulong666@gmail.com
 
 ## 🎯 Fun Facts
