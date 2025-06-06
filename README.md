@@ -6,7 +6,7 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 70%;">
       <h3>🧐 Research Interests</h3>
       <ul>
         <li>🧠 <strong>Self-adaptive Systems</strong></li>
