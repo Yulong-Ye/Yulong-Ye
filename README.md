@@ -5,9 +5,7 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
 <table>
   <tr>
     <td valign="top" width="55%">
-
       <h3>🧐 Research Interests</h3>
-
       <ul>
         <li>🧠 <strong>Self-adaptive Systems</strong></li>
         <li>🔁 <strong>Multi-fidelity Configuration Tuning</strong></li>
@@ -15,15 +13,13 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
         <li>🧬 <strong>Evolutionary Computation</strong></li>
         <li>🤖 <strong>Automated Machine Learning (AutoML)</strong></li>
       </ul>
-
     </td>
     <td valign="top" width="45%">
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=tokyonight" alt="Yulong-Ye's GitHub Stats"/>
-
+      <img src="https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=tokyonight" alt="Yulong Ye's GitHub Stats" />
     </td>
   </tr>
 </table>
+
 
 ---
 
