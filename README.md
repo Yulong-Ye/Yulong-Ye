@@ -19,7 +19,7 @@ I’m exploring how intelligent algorithms can efficiently tune complex systems 
 
 ## 📫 Let’s Connect
 - 📖 Academic Homepage: https://yulong-ye.github.io/
-- ✉️ Email: yeyulong666@gmail.com
+- 📧 Email: yeyulong666@gmail.com
 
 ## 🎯 Fun Facts
 - I'm deeply curious about optimization and system behavior.
