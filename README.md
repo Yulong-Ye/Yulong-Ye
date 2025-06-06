@@ -18,7 +18,7 @@ I’m exploring how intelligent algorithms can efficiently tune complex systems 
 - Dynamic optimization under workload drift
 
 ## 📫 Let’s Connect
-- 🌐 [Homepage](https://yulong-ye.github.io/) <!-- Replace with actual URL -->
+- 🌐 Research Homepate: https://yulong-ye.github.io/
 - ✉️ Email: yeyulong666@gmail.com
 
 ## 🎯 Fun Facts
@@ -28,4 +28,4 @@ I’m exploring how intelligent algorithms can efficiently tune complex systems 
 
 ---
 
-![Yulong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=default)
+![Yulong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=tokyonight)
