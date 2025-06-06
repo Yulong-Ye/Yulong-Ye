@@ -10,7 +10,7 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
 - 🤖 **Automated Machine Learning (AutoML)**
 
 ## 🚀 Current Work
-I’m exploring how intelligent algorithms can efficiently tune complex systems like databases, compilers, and servers using limited computational budgets — powered by **multi-fidelity optimization**, **EA**, **BO**, and **fitness landscape insights**.
+I’m exploring how intelligent algorithms can efficiently tune complex systems like databases, compilers, and servers using limited computational budgets — powered by **multi-fidelity optimization** and **fitness landscape insights**.
 
 ## 📂 Selected Topics I’m Working On
 - Multi-fidelity Configuration Tuning
