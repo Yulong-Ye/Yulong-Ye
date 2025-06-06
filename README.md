@@ -5,7 +5,7 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 260px;">
+  <div style="flex: 1; min-width: 250px;">
     <h3>🧐 Research Interests</h3>
     <ul>
       <li>🧠 <strong>Self-adaptive Systems</strong></li>
@@ -16,9 +16,10 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yulong-Ye&theme=github_dark" alt="Yulong Ye's GitHub Stats" style="width: 100%;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yulong-Ye&theme=github_dark" alt="GitHub Stats" style="width: 100%; display: block;"/>
   </div>
 </div>
+
 
 
 
