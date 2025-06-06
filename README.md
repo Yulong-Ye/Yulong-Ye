@@ -2,30 +2,48 @@
 
 I'm a PhD student at the **University of Birmingham**, working at the intersection of **AI for Software Engineering (AI4SE)** and **Software Engineering for AI (SE4AI)**.
 
-## 🧐 Research Interests
-- 🧠 **Self-adaptive Systems**
-- 🔁 **Multi-fidelity Configuration Tuning**
-- 🏔️ **Fitness Landscape Analysis**
-- 🧬 **Evolutionary Computation**
-- 🤖 **Automated Machine Learning (AutoML)**
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-## 🚀 Current Work
-I’m exploring how intelligent algorithms can efficiently tune complex systems like databases, compilers, and servers using limited computational budgets — powered by **multi-fidelity optimization** and **fitness landscape insights**.
+      <h3>🧐 Research Interests</h3>
 
-## 📂 Selected Topics I’m Working On
-- Multi-fidelity Configuration Tuning
-- EA/BO for configuration tuning
-- Dynamic optimization under workload drift
+      <ul>
+        <li>🧠 <strong>Self-adaptive Systems</strong></li>
+        <li>🔁 <strong>Multi-fidelity Configuration Tuning</strong></li>
+        <li>🏔️ <strong>Fitness Landscape Analysis</strong></li>
+        <li>🧬 <strong>Evolutionary Computation</strong></li>
+        <li>🤖 <strong>Automated Machine Learning (AutoML)</strong></li>
+      </ul>
 
-## 📫 Let’s Connect
-- 📖 Academic Homepage: https://yulong-ye.github.io/
-- 📧 Email: yeyulong666@gmail.com
+    </td>
+    <td valign="top" width="45%">
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=tokyonight" alt="Yulong-Ye's GitHub Stats"/>
 
-## 🎯 Fun Facts
-- I'm deeply curious about optimization and system behavior.
-- I enjoy building frameworks that generalize across AI/SE domains.
-- I enjoy watching 🎬, listening to 🎵, and exploring 🥘 when I'm not debugging tuning loops!
+    </td>
+  </tr>
+</table>
 
 ---
 
-![Yulong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=tokyonight)
+## 🚀 Current Work
+
+I’m exploring how intelligent algorithms can efficiently tune complex systems like databases, compilers, and servers using limited computational budgets — powered by **multi-fidelity optimization** and **fitness landscape insights**.
+
+## 📂 Selected Topics I’m Working On
+
+- Multi-fidelity Configuration Tuning  
+- Fitness Landscape Analysis
+- Dynamic optimization under workload drift  
+
+## 📫 Let’s Connect
+
+- 📖 Academic Homepage: https://yulong-ye.github.io/  
+- 📧 Email: yeyulong666@gmail.com  
+
+## 🎯 Fun Facts
+
+- I'm deeply curious about optimization and system behavior.  
+- I enjoy building frameworks that generalize across AI/SE domains.  
+- I enjoy watching 🎬, listening to 🎵, and exploring 🥘 when I'm not debugging tuning loops!
