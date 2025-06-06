@@ -17,7 +17,7 @@ I'm a PhD student at the **University of Birmingham**, working at the intersecti
       </ul>
     </td>
     <td style="vertical-align: top; width: 50%;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yulong-Ye&theme=github_dark" alt="GitHub Stats" style="width: 100%;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yulong-Ye&theme=tokyonight" alt="GitHub Stats" style="width: 100%;" />
     </td>
   </tr>
 </table>
