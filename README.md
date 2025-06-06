@@ -28,4 +28,4 @@ I’m exploring how intelligent algorithms can efficiently tune complex systems 
 
 ---
 
-![YourName's GitHub stats](![Yulong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=default))
+![Yulong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yulong-Ye&show_icons=true&theme=default)
